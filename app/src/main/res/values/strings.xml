@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuidanceToLight</string>
+    <string-array name="type">
+        <item> Doctor</item>
+        <item> Driver</item>
+        <item> Friendly</item>
+    </string-array>
+</resources>
